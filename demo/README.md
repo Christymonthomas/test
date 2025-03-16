@@ -1,1 +1,1 @@
-Learning Git and Github. Fisrt Update from remote repo
+Learning Git and Github. First Update from remote repo
